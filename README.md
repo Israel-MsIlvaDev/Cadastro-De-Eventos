@@ -107,5 +107,3 @@ EventosMaui/
 - BindingContext  
 - Visual Studio 2022  
 
-## 🗂️ Estrutura do Projeto
-
